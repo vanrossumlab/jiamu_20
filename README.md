@@ -1,6 +1,6 @@
 # jiamu_20
 
-Code for the paper "Electro-physiology models of cells with spherical geometry".<br />
+Code for the paper "Electro-physiology models of cells with spherical geometry with non-conducting centre".<br />
 
 ## Filtering and charging  
 sphere_equation_pulsefilter: the membrane voltage in response to a current pulse <br />
